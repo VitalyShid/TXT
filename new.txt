@@ -1,0 +1,6 @@
+1) surname Shidlovskii
+2) name Vitalii
+3) middle name Vital'evich
+4) age 38
+5) pets 1
+6) sallary 10000
